@@ -11,12 +11,12 @@ from collections import deque
 #  PAGE CONFIG
 # ══════════════════════════════════════════════════════════════
 st.set_page_config(
-    page_title="CryptoMind AI — Ultimate Predictor",
+    page_title="Crypto oracle — Ultimate Predictor",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'About': "CryptoMind AI — 316 Feature Ultra Advanced Crypto Predictor"
+        'About': "Cryptoracle AI — 316 Feature Ultra Advanced Crypto Predictor"
     }
 )
 
