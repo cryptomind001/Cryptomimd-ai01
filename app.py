@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'About': "Cryptoracle AI — 316 Feature Ultra Advanced Crypto Predictor"
+        'About': "Crypt oracle AI — 316 Feature Ultra Advanced Crypto Predictor"
     }
 )
 
